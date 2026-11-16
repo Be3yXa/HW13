@@ -1,4 +1,4 @@
-~
+~~~
 #define _CRT_SECURE_NO_WARNINGS
 #define MAX_SIZE 100 // Максимально допустимый размер массива
 #include <stdio.h>
@@ -47,4 +47,4 @@ int main() {
     }
     return 0;
 }
-~
+~~~
